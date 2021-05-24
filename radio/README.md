@@ -14,7 +14,7 @@ There are screws that can be removed with a quarter inch socket, two on the back
 
 ## Attach AUX In
 
-This radio is mono, so combine the Left and Right channels with two 50 ohm resistors.
+This radio is mono, so combine the Left and Right channels with two 50 ohm resistors. Someone on the internet said 33-100 ohm is fine, so I used what I had.
 
 Cut the "AM AUD" trace, and attach the aux in to the AM/FM selector switch.
 
@@ -23,3 +23,9 @@ Attach the gound to any nearby ground.
 Use hot snot or something for strain releif. Don't overthink it.
 
 ![Wires and Schematic](https://github.com/bkuker/corvette/blob/main/radio/IMG_1103.2.jpg?raw=true)
+
+## Notes
+
+My radio had a label that said NOT to operate it without appropriate speakers attached, so if you test it out of the car, check that.
+
+The AM / FM selector comes off with the front panel, so just unscrew 4x screws on the front to remove it and the panel for cleaning.
